@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Flutter projects**
 
-- 💬 Ask me about **Flutter||Machine Learning || Data Science || Python**
+- 💬 Ask me about **Flutter || Machine Learning || Data Science || Python**
 
 - 📫 How to reach me **gokularavindh89@gmail.com**
 
