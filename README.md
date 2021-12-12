@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindan-d&label=Profile%20views&color=0e75b6&style=flat" alt="aravindan-d" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning ,Deep Learning**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Flutter projects**
 
